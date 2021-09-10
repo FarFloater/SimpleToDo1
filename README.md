@@ -22,7 +22,7 @@ List anything else that you can get done to improve the app functionality!
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-<img src='https://imgur.com/gallery/aVE8mby' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/aVE8mby"  ><a href="//imgur.com/a/aVE8mby">ToDo Application</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
