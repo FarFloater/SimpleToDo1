@@ -24,7 +24,6 @@ Here's a walkthrough of implemented user stories:
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/aVE8mby"  ><a href="//imgur.com/a/aVE8mby">ToDo Application</a></blockquote> GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
-Describe any challenges encountered while building the app.
 There was some difficulty with the emulator... I needed to configure my BIOS settings. It was my first time accessing a BIOS on a LENOVO PC; it was a doozy.
 There was an issue with some of the libraries too. There was an extra library that somehow crashed the application. I don't understand how an additional repository will crash the file. If you know why, please tell me.
 
